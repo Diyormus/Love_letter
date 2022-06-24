@@ -1,6 +1,0 @@
-aiogram
-bs4
-python-dotenv
-requests
-sqlite3
-random
