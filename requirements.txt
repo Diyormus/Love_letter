@@ -1,4 +1,0 @@
-aiogram
-bs4
-python-dotenv
-requests
